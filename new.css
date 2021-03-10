@@ -1,0 +1,22 @@
+table{
+	background:green;
+	width:100%;
+}
+
+tr{
+	text-align:center;
+}
+.home{
+	height:100%;
+	width:100%;
+	border: solid green 4px;
+	background-image:url("kkk.png");
+	background-size:cover;
+}
+h5{
+	color:blue;
+}
+h1{
+	color:#e6190a;
+	text-align:center;
+}
